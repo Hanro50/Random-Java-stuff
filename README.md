@@ -1,8 +1,8 @@
-Just some generic java libs I made. LWJGL 3 is required and JOML is highly recommended.
+Just some generic java libs I made. LWJGL 3 is required and JOML is highly recommended/required.
 
 Legal stuff:
 
-Copyright (c) <2020>, <Hanro50>
+Copyright (c) 2020 Hanro50
 
 
 Redistribution and use in source and binary forms, with or without
